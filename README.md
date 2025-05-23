@@ -13,4 +13,4 @@ After the enviroment has been propertly created, activate it with:
 
 Navigate to the folder where the scripts are and run the gui with:
 
-`python coregview.py`.
+`python coregview_main.py`.
