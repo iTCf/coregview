@@ -1,0 +1,28 @@
+QMainWindow {
+        background-color: white;
+    }
+
+QDialog{
+        background-color: white;
+    }
+
+QPushButton {
+        background-color: #b1bcd1;
+        border-width: 1px;
+        border-color: #6c7687;
+        border-style: solid;
+        border-radius: 5;
+        padding: 3px;
+    }
+
+QPushButton:pressed {
+     background-color: #cbd1db;
+ }
+
+QLabel {
+        background-color: white;
+    }
+
+QComboBox {
+        background-color: #9fabc4;
+    }
